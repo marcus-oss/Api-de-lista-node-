@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS lista_contatos;
+
+USE lista_contatos;
+
+CREATE TABLE IF NOT EXISTS contatos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    telefone VARCHAR(20) NOT NULL,
+    criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
