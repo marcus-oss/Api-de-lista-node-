@@ -6,7 +6,7 @@ teste tecnico feito para uma vaga de desenvolvedor back end Júnior
 <li>Sql</li>
 <li>Express</li>
 
-para executar o projeto usar esses comandos npm 
+<h2>para executar o projeto usar esses comandos npm</h2>
 
-npm install express mysql2 dotenv cors
-npm i -y 
+<li> npm install express mysql2 dotenv cors
+npm i -y </li>
