@@ -1,5 +1,9 @@
 DB_HOST=localhost
+
 DB_USER=root
-DB_PASSWORD=sua_senha_aqui
+
+DB_PASSWORD=
+
 DB_NAME=lista_contatos
+
 API_PORT=3000
